@@ -1,4 +1,4 @@
-# activedirectory
+# Active Directory
 Active Directory: How to add users, groups and group policies using the graphical interface (PowerShell is only used for the installation and the configuration of the AC)
 
 Introduction
